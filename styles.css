@@ -199,7 +199,7 @@
 }
 
 #updates__button{
-  padding: 10px 30px;
+  padding: 20px 30px;
 }
 
 .quote__image__text{
@@ -309,8 +309,9 @@
     }
 
     .mail__button{
-      padding-top: 10px;
+      padding-top: 0px;
     }
+
 
     #email{
       padding-right: 100px;
