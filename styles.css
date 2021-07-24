@@ -119,7 +119,8 @@
   }
 
   #explore__menu__viewmore{
-    padding: 20px 40%;
+    padding: 10px 20%;
+    margin-left: 20%;
 }
 
 .order__container{
@@ -272,6 +273,10 @@
 }
   
   @media (min-width: 768px) {
+    #explore__menu__viewmore{
+      margin-left: 27%;
+    }
+
     .explore__menu__lists {
       margin-top: 45px;
       display: flex;
